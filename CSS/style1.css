@@ -226,8 +226,6 @@ div.contenedor3{
     height:350px ;
     display: flex;
     position: absolute;
-    padding-left: 60px;
-    margin-right: 60px;
     align-items: center;
 }
 
@@ -256,7 +254,11 @@ div.contenedor3{
 .infoSec3{
     margin: 3px;
     align-content: center;
-}
+    margin-left: 60px;
+    height: 315px;
+    border-style: solid;
+    
+}  
 
 .infoSec1 img{
     
